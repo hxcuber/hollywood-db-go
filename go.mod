@@ -1,4 +1,4 @@
-module hollywood
+module github.com/hxcuber/hollywood-db-go
 
 go 1.20
 

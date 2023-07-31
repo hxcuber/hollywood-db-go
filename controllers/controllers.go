@@ -3,9 +3,9 @@ package controllers
 import (
 	"fmt"
 	"github.com/gorilla/mux"
+	"github.com/hxcuber/hollywood-db-go/connect"
+	"github.com/hxcuber/hollywood-db-go/models"
 	"gorm.io/gorm"
-	"hollywood/connect"
-	"hollywood/models"
 	"net/http"
 )
 
